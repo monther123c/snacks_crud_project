@@ -1,0 +1,39 @@
+nav {
+    
+    
+    background-color: rgb(203, 193, 193);
+    padding: 1vw;
+    display: flex;
+    gap: 3vw;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(57, 70, 51);
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.home {
+    min-height: 70vh;
+    padding: 2vw;
+    text-align: center;
+}
+
+.content {
+    min-height: 70vh;
+    padding: 2vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+
+}
+
+.desc {
+    display: flex;
+    justify-content: center;
+}
